@@ -1,1 +1,1 @@
-# vscode-Configuration-Linux-Unix
+# Back-up VS code configuration file for debugging and building
